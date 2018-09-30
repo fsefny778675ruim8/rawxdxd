@@ -1,0 +1,23 @@
+{
+  "name": "testboi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "fs": "0.0.1-security",
+    "moment": "^2.22.2",
+    "mon": "0.0.8",
+    "ms": "^2.1.1",
+    "nodemon": "^1.18.4",
+    "opusscript": "0.0.6",
+    "simple-youtube-api": "^5.0.2",
+    "ytdl": "^0.10.4",
+    "ytdl-core": "^0.26.0"
+  }
+}
